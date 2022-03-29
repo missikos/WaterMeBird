@@ -1,4 +1,4 @@
-20114001615693436
+20125541779628358
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85603,9 +85603,58 @@ varistor SIOV
 2
 2
 _Tinker
+DIP-8_W7.62mm_Thick
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+8
+8
+_Tinker
+LED_D3.0mm_Thick
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+_Tinker
+MagneticBuzzer_Thick
+Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
+Buzzer Magnetic 9mm AT-0927-TT-6-R
+0
+2
+2
+_Tinker
+R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal_Thick
+Resistor, Axial_DIN0309 series, Axial, Horizontal, pin pitch=12.7mm, 0.5W = 1/2W, length*diameter=9*3.2mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0309 series Axial Horizontal pin pitch 12.7mm 0.5W = 1/2W length 9mm diameter 3.2mm
+0
+2
+2
+_Tinker
+R_LDR_4.9x4.2mm_P2.54mm_Vertical_Thick
+Resistor, LDR 4.9x4.2mm
+Resistor LDR4.9x4.2
+0
+2
+2
+_Tinker
+SW_PUSH_6mm_H5mm_Thick
+tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
+tact sw push 6mm
+0
+4
+2
+_Tinker
 TO-92_Inline_Wide_Thick
 TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
 to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+_Tinker
+TerminalBlock_1x03_P5.00mm_Thick
+terminal block RND 205-00002, 3 pins, pitch 5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.5mm, see http://cdn-reichelt.de/documents/datenblatt/C151/RND_205-00001_DB_EN.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_RND
+THT terminal block RND 205-00002 pitch 5mm size 15x9mm^2 drill 1.3mm pad 2.5mm
 0
 3
 3
